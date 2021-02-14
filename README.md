@@ -1,0 +1,2 @@
+# BitirmeProjeleri
+BilgeAdam bitirme projeleri
